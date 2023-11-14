@@ -8,3 +8,5 @@ I built my personal portfolio using Next.js and Tailwind CSS to make it fast, dy
 # Level 2(Ecommerce Platform)
 
 A react ecommerce website Deer Store inspired by ReinDeers which are known for thier adaptable nature and resilience. This website aims at creating a hassle free experience for users to buy electronics using technologies like Context API, React and Axios along with features like Product Filters and User Authentication
+
+Overall It was a great experience and learning for me completing these challenges with codsoft as a web developer
