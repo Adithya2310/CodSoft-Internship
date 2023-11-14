@@ -1,4 +1,5 @@
-# Welcome to Adithya's React Ecommerce Website Series
+# Welcome to Adithya's React Ecommerce Website
+It is hosted using vercel at https://deerstore.vercel.app/
 
 ## Follow the 3 Steps and you are good to go. 
 
